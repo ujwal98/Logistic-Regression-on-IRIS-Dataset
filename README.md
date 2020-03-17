@@ -1,4 +1,4 @@
-# Logistic-Regrssion-on-IRIS-Dataset
+# Logistic-Regression-on-IRIS-Dataset
 Logistic Regression to classify the IRIS Dataset
 
 This dataset contains data of different species of IRIS and our job is classify them into different species based on the sepal length, sepal width, petal length and petal width of the IRIS flowers.
